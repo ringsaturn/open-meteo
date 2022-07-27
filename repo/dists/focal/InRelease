@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: focal
+Date: Wed, 27 Jul 2022 17:38:42 UTC
+Architectures: amd64
+Components: main
+Description: open-meteo/open-meteo
+MD5Sum:
+ a3969da4ade6d72f9f5211220d6fbca6 512 main/binary-amd64/Packages
+ d32e525a2196bc82c6d7ec4aac4d9b24 375 main/binary-amd64/Packages.gz
+ b921c6380de5bd5a50e91d01bd55fdad 71 main/binary-amd64/Release
+SHA1:
+ 07e3ebc69430d6effd62e6f41afdb73f9f586c88 512 main/binary-amd64/Packages
+ 8a0c05298a0513e3617238d1ac72f72355781288 375 main/binary-amd64/Packages.gz
+ 64447dbd163ad4db906bf5cfcacd58968e04bb83 71 main/binary-amd64/Release
+SHA256:
+ 034cecb2ab7b60f52ca2c2b7490fc26d404af7daf0e5d1b3d53b9768f5e2503c 512 main/binary-amd64/Packages
+ 9a4c086b6672b4d92f6cd1d87188a6a7af9cca1ad0a0f4300b4241e52691bba3 375 main/binary-amd64/Packages.gz
+ cbf61a0260f6a2362ca57946fd5831500d2525c21d415377953fd56c9e8c7579 71 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQSdu66w2PBS8hppwuXgbpsLSyMw2gUCYuF4IgAKCRDgbpsLSyMw
+2pVHAP0fV84gM3Du+XSXUvDxcsjkHKlrBkNbqIPA8WD4KkG9ogD7BMyav3YvhlDb
+wv0PT3au1g93Q/bOWEbJf4rVrDnzYQo=
+=ee18
+-----END PGP SIGNATURE-----

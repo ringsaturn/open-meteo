@@ -1,0 +1,7 @@
+Description: open-meteo/open-meteo
+Codename: focal
+Architectures: amd64
+Components: main
+SignWith: 9DBBAEB0D8F052F21A69C2E5E06E9B0B4B2330DA
+
+

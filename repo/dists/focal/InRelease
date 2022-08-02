@@ -2,26 +2,26 @@
 Hash: SHA256
 
 Codename: focal
-Date: Mon, 01 Aug 2022 18:43:27 UTC
+Date: Tue, 02 Aug 2022 17:55:56 UTC
 Architectures: amd64
 Components: main
 Description: open-meteo/open-meteo
 MD5Sum:
- c6a803d63cdaaff6ef731c58855b57f3 514 main/binary-amd64/Packages
- 750a90bcac277f5f97f00af4c3738e43 377 main/binary-amd64/Packages.gz
+ b16628b709a2891d7d3eed7c1b5506e7 514 main/binary-amd64/Packages
+ f7aad8ad775e0b7633e29ae272ff5352 378 main/binary-amd64/Packages.gz
  b921c6380de5bd5a50e91d01bd55fdad 71 main/binary-amd64/Release
 SHA1:
- 0b05be13a86736aee1002b5ca8bee02a68edf180 514 main/binary-amd64/Packages
- 7c35f8dee8958a877b506aa5b068c1928b4ca58c 377 main/binary-amd64/Packages.gz
+ 89caded86994c5ba5ff0c2af7bfcd01e00cffd9e 514 main/binary-amd64/Packages
+ be24b09b7b4f62ab75110e0a13301ec5b754ec85 378 main/binary-amd64/Packages.gz
  64447dbd163ad4db906bf5cfcacd58968e04bb83 71 main/binary-amd64/Release
 SHA256:
- 2954f2e387c424ff86eb5509996ff9734698989c04801215af7775302ced8d0f 514 main/binary-amd64/Packages
- b356ce4e7f0a340bf0c9bee0e888602e76d997f00695c0eb9802e4bccb144502 377 main/binary-amd64/Packages.gz
+ 42c1c65d27ada1b8924daa9876d1642cf7af75bbcae20708b28e5c0fd9fc23bf 514 main/binary-amd64/Packages
+ 9628d13191fcef13792069e0bd6d290d74ee80db8fe54929df6e0d4f12670d0c 378 main/binary-amd64/Packages.gz
  cbf61a0260f6a2362ca57946fd5831500d2525c21d415377953fd56c9e8c7579 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSdu66w2PBS8hppwuXgbpsLSyMw2gUCYugezwAKCRDgbpsLSyMw
-2l7PAQC+gdN8Z2iqmp9DWHRGN5KFiUheF8mvizTkUj6m7TqBVwEAquc72RieOdaN
-tE6DUrT9McrGVUxbmKOY+i/laSD/Tg4=
-=7uGr
+iHUEARYIAB0WIQSdu66w2PBS8hppwuXgbpsLSyMw2gUCYullLAAKCRDgbpsLSyMw
+2qBiAQCXIfJdRqR5gQoNIs7mO8jQEZBIb7I8Hx3IAv2Mn5DVIQD9FT2EGORaPsw1
+PywieFjWnpffUOVoOKgXwXID812s0Qk=
+=vpFw
 -----END PGP SIGNATURE-----

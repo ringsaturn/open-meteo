@@ -1,17 +1,17 @@
 Codename: focal
-Date: Tue, 02 Aug 2022 17:55:56 UTC
+Date: Thu, 04 Aug 2022 18:37:04 UTC
 Architectures: amd64
 Components: main
 Description: open-meteo/open-meteo
 MD5Sum:
- b16628b709a2891d7d3eed7c1b5506e7 514 main/binary-amd64/Packages
- f7aad8ad775e0b7633e29ae272ff5352 378 main/binary-amd64/Packages.gz
+ 5630ba6d5d331d305f7fcb6deb67abde 514 main/binary-amd64/Packages
+ 9518fc78eab511e206c0470f9879b5ea 376 main/binary-amd64/Packages.gz
  b921c6380de5bd5a50e91d01bd55fdad 71 main/binary-amd64/Release
 SHA1:
- 89caded86994c5ba5ff0c2af7bfcd01e00cffd9e 514 main/binary-amd64/Packages
- be24b09b7b4f62ab75110e0a13301ec5b754ec85 378 main/binary-amd64/Packages.gz
+ 6426ebbb05640794df838b9b6330622986bea2bb 514 main/binary-amd64/Packages
+ 25e80c49d6dce99632a1641b68beb20e6e769259 376 main/binary-amd64/Packages.gz
  64447dbd163ad4db906bf5cfcacd58968e04bb83 71 main/binary-amd64/Release
 SHA256:
- 42c1c65d27ada1b8924daa9876d1642cf7af75bbcae20708b28e5c0fd9fc23bf 514 main/binary-amd64/Packages
- 9628d13191fcef13792069e0bd6d290d74ee80db8fe54929df6e0d4f12670d0c 378 main/binary-amd64/Packages.gz
+ d72033622b2c8a27123cbc7a7f444e03024d4c4c0ef2ff112da63488819393e1 514 main/binary-amd64/Packages
+ 0f810c773f585584ff09a23df00841b96f98448c9f3edf985f85c256005bd461 376 main/binary-amd64/Packages.gz
  cbf61a0260f6a2362ca57946fd5831500d2525c21d415377953fd56c9e8c7579 71 main/binary-amd64/Release
